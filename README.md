@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iammradarsh" target="blank"><img src="https://img.shields.io/twitter/follow/iammradarsh?logo=twitter&style=for-the-badge" alt="iammradarsh" /></a> </p>
 
-- 🔭 I’m currently working on [Farm.Rent](https://adarshgachha.github.io/Farm.Rent/)
+- 🔭 I’m currently working at [Hackerkernel](https://hackerkernel.com)
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, MongoDB , Express JS(), Front-end , Backend**
+- 💬 Ask me about **HTML, CSS,UI/UX Designing , JavaScript, NodeJS, MongoDB , Express JS(), Front-end , Backend**
 
 - 📫 How to reach me **adarshgachha@gmail.com**
 
