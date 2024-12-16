@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS,UI/UX Designing , JavaScript, NodeJS, MongoDB , Express JS(), Front-end , Backend**
+- 💬 Ask me about **HTML, CSS, UI/UX Designing , JavaScript, NodeJS, MongoDB , Express JS(), Front-end , Backend**
 
 - 📫 How to reach me **adarshgachha@gmail.com**
 
